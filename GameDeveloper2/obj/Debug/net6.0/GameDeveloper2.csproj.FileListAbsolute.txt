@@ -1,0 +1,15 @@
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-GameDev2/GameDeveloper2/bin/Debug/net6.0/GameDeveloper2
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-GameDev2/GameDeveloper2/bin/Debug/net6.0/GameDeveloper2.deps.json
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-GameDev2/GameDeveloper2/bin/Debug/net6.0/GameDeveloper2.runtimeconfig.json
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-GameDev2/GameDeveloper2/bin/Debug/net6.0/GameDeveloper2.dll
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-GameDev2/GameDeveloper2/bin/Debug/net6.0/GameDeveloper2.pdb
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-GameDev2/GameDeveloper2/obj/Debug/net6.0/GameDeveloper2.csproj.AssemblyReference.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-GameDev2/GameDeveloper2/obj/Debug/net6.0/GameDeveloper2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-GameDev2/GameDeveloper2/obj/Debug/net6.0/GameDeveloper2.AssemblyInfoInputs.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-GameDev2/GameDeveloper2/obj/Debug/net6.0/GameDeveloper2.AssemblyInfo.cs
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-GameDev2/GameDeveloper2/obj/Debug/net6.0/GameDeveloper2.csproj.CoreCompileInputs.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-GameDev2/GameDeveloper2/obj/Debug/net6.0/GameDeveloper2.dll
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-GameDev2/GameDeveloper2/obj/Debug/net6.0/refint/GameDeveloper2.dll
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-GameDev2/GameDeveloper2/obj/Debug/net6.0/GameDeveloper2.pdb
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-GameDev2/GameDeveloper2/obj/Debug/net6.0/GameDeveloper2.genruntimeconfig.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-GameDev2/GameDeveloper2/obj/Debug/net6.0/ref/GameDeveloper2.dll
