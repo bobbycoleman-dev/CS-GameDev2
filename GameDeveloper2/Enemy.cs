@@ -13,7 +13,7 @@ class Enemy
     public Attack RandomAttack()
     {
         Random attack = new();
-        Attack randAttack = AttackList[attack.Next(AttackList.Count - 1)];
+        Attack randAttack = AttackList[attack.Next(AttackList.Count)];
         return randAttack;
         // Console.WriteLine($"Attack: {randAttack.Name}\nDamage Dealt: {randAttack.DamageAmount}");
     }
